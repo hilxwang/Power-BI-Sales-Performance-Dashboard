@@ -5,7 +5,7 @@
 ![127719550-9cb4b2b6-580b-4f48-9bda-833ba0ce3ef2](https://github.com/hilxwang/Power-BI-Sales-Performance-Dashboard/assets/96967687/ead6caf1-c29e-49a4-a101-ca267b44e839)
 
 ## Project Description
-This project utilizes Power Query and DAX measures to analyze Adventure Works Cycles, a fictional manufacturing company. Through interactive dashboards, it offers insights into sales performance, product trends, and customer behavior. The "Exec Summary" dashboard presents key metrics like revenue, orders, and geographic sales. The "Product Detail" and "Customer Detail" dashboards focus on product-specific and customer-centric analyses, aiding in data-driven decision-making.
+This project utilizes Power Query and DAX measures to analyze a cycle manufacturing company. Through interactive dashboards, it offers insights into sales performance, product trends, and customer behavior. The "Exec Summary" dashboard presents key metrics like revenue, orders, and geographic sales. The "Product Detail" and "Customer Detail" dashboards focus on product-specific and customer-centric analyses, aiding in data-driven decision-making.
 ## POC Dashboard Design
 ![0001](https://github.com/hilxwang/Power-BI-Sales-Performance-Dashboard/assets/96967687/7796f27c-c00a-4dc5-855d-624cbc8d8a49)
 ![0002](https://github.com/hilxwang/Power-BI-Sales-Performance-Dashboard/assets/96967687/3932c9ab-f32a-4a54-880f-7217f029d0c2)

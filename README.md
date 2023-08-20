@@ -1,5 +1,3 @@
-![img96](https://github.com/hilxwang/Power-BI-Sales-Performance-Dashboard/assets/96967687/fde63a7a-ef3b-4fa3-9c39-b039feaca5c9)
-
 
 # Power-BI-Sales-Performance-Dashboard
 ![127719550-9cb4b2b6-580b-4f48-9bda-833ba0ce3ef2](https://github.com/hilxwang/Power-BI-Sales-Performance-Dashboard/assets/96967687/ead6caf1-c29e-49a4-a101-ca267b44e839)
